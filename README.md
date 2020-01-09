@@ -3,4 +3,4 @@ A python script to run a telegram-bot that returns the number of forks for each 
 the total number
 
 
-![telegram try]()
+![telegram try](https://raw.githubusercontent.com/sashreek1/telegrambot/master/screenshots/Screenshot%20from%202020-01-10%2002-23-49.png)
