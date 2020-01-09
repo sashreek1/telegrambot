@@ -26,7 +26,7 @@ def numbers (update,context):
 
 
 def main_func():
-    updater = Updater("TOKEN", use_context=True)
+    updater = Updater("1020524614:AAEYUN31CTu-3iMNxuwN-0zs3w6twGJS2VY", use_context=True)
     dp = updater.dispatcher
     dp.add_handler(CommandHandler("start", start))
     dp.add_handler(CommandHandler("help", help))
